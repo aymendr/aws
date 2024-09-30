@@ -1,7 +1,10 @@
 # aws
-- Free plans : https://aws.amazon.com/fr/free/
 
 ## 5 Tips You MUST Know
+
+### Free plans
+https://aws.amazon.com/fr/free/
+
 ### Définir un budget
 barre de recherche > Budget > create budget > template, monthly budget > Enter budget amount, email > create budget
 On reçoit une notification dès qu'on s'approche du montant
